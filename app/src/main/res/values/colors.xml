@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="rt_assist_header_background">#CA6800</color>
+    <color name="rt_assist_background">#808080</color>
+    <color name="rt_assist_colorHeaderText">#000000</color>
+    <color name="rt_assist_colorText">#FFFFFF</color>
+    <color name="rt_assist_button_background">#012157</color>
+    <color name="rt_assist_colorDialogPosButton">#c42022</color>
+    <color name="rt_assist_colorDialogNegButton">#808080</color>
+    <color name="rt_assist_colorButtonText">#000000</color>
+    <color name="rt_assist_colorButtonBackground">#ffff00</color>
+    <color name="rt_assist_colorProgressSpinner">@color/rt_assist_colorButtonBackground</color>
+    <color name="rt_assist_colorDialogButton">#ffff00</color>
+    <color name="rt_assist_progress_bar_background_tint">#FFFFFF</color>
+    <color name="rt_assist_colorProgressBarTint">@color/rt_assist_header_background</color>
+</resources>
